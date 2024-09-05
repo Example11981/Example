@@ -1,10 +1,2 @@
-Edited the feature 2.1
-
-
-Feature is create a product;
-You are a small mouse;
- After every build, Jenkins sends email notifications and it picks up my incorrect email address from Git commit and tries to send it.
-
-Even after I have changed the email address in my local Git, I still see Jenkins sending the emails to the old incorrect address.
-
-How can I fix this?
+Create a new feature 2.1
+ 
